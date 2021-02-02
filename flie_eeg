@@ -1,1 +1,1 @@
-FROM 
+FROM tensorflow/tensorflow:1.13.2-gpu-jupyter
